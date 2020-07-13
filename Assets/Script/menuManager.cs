@@ -28,6 +28,6 @@ public class menuManager : MonoBehaviour
         SceneManager.LoadScene("Sphere");
     }
     public void PlayButton3(){
-        SceneManager.LoadScene("Cylinder");
+        SceneManager.LoadScene("Capsule");
     }
 }
